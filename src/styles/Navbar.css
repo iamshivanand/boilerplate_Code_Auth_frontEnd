@@ -1,0 +1,33 @@
+.bar {
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 60px;
+  background-color: #000000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.logo {
+  color: white;
+  font-size: larger;
+  margin-left: 10px;
+  font-family: cursive;
+  min-width: 110px;
+}
+.toolbar {
+  display: flex;
+}
+.toolbar div {
+  margin-right: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.avatarText {
+  margin: auto;
+  padding: auto;
+}

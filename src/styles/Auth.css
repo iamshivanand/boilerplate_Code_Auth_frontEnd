@@ -1,0 +1,16 @@
+.textFieldLabel {
+  color: white !important;
+}
+.formContainer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: #dcae96;
+  border-radius: 10px;
+}
+.formLast {
+  cursor: pointer;
+}
